@@ -1,3 +1,4 @@
+![Snake Animation](https://github.com/Doniyorjon01/Doniyorjon01/blob/output/github-contribution-grid-snake.svg)
 ## Hi there 👋
 
 <!--
