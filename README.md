@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=Doniyorjon01&label=Profile%20Views&color=blue&style=flat)
 
 ![Snake Animation](https://github.com/Doniyorjon01/Doniyorjon01/blob/output/github-contribution-grid-snake.svg)
 ## Hi there 👋
