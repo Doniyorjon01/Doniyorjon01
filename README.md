@@ -33,4 +33,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Doniyorjon01&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 👁️ Number of visits:
+
+<p align="center" dir="auto">
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/892105add010cfc3fc3a6dea94d2915af0ed271a33226904270080f24eb38b57/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b64696c73686f6465762d70797d2f636f756e742e737667"><img src="https://camo.githubusercontent.com/892105add010cfc3fc3a6dea94d2915af0ed271a33226904270080f24eb38b57/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b64696c73686f6465762d70797d2f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/{dilshodev-py}/count.svg" style="max-width: 100%;"></a>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
